@@ -51,7 +51,8 @@ git reset HEAD FileName
 git remote -v (단축이름과 URL을 볼 수 있다.)
 git remote add 단축이름 URL
 
-- branch 만들기
+- branch 만들기 및 확인
+git branch
 git branch testing
 
 - branch 이동하기
