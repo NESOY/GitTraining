@@ -1,4 +1,5 @@
 # GitTraining
+<pre><code>
 Option 정보
  --Long Name
  -Short Name
@@ -67,3 +68,5 @@ git merge BranchName
 
 -git branch commit message 보기
 git branch -v
+
+</code></pre>
