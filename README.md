@@ -58,5 +58,13 @@ git branch testing
 - branch 이동하기
 git checkout otherBranch
 
+- branch 삭제하기
+git branch -d branchName
+
+- git merge 하기
+git checkout master
+git merge BranchName
+
+
 git diff
 git push origin master
