@@ -70,3 +70,5 @@ git merge BranchName
 git branch -v
 
 </code></pre>
+
+참고 : http://www.internetmap.kr/1558
