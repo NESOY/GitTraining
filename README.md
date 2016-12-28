@@ -65,6 +65,5 @@ git branch -d branchName
 git checkout master
 git merge BranchName
 
-
-git diff
-git push origin master
+- git branch commit message 보기
+git branch -v
