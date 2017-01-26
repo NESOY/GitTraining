@@ -1,10 +1,8 @@
-# GitTraining
-# Git Atom Test
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](github.com/SCCasper)
+# Git Command
 <pre><code>
-Option 정보
- --Long Name
- -Short Name
+- Option 정보
+ -- : Long Name Option
+ - : Short Name Option
 
 -기존 계정 정보 삭제
 git config --global --unset credential.helper
